@@ -1,2 +1,2 @@
 pip3 install .
-# read -p "Installation complete, press any key..."
+read -p "Installation complete, press any key..."
